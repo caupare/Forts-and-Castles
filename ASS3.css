@@ -1,4 +1,5 @@
-.hero { 
+
+  .hero { 
     position: relative; 
     height: 200vh;
     width: 100%;
@@ -68,12 +69,12 @@
     align-items: center;
     justify-content: center; 
     margin-left: 25%;
+    position: relative;
   }
   .table tr td{
       border:2px solid black;
   }
   #table1{
-    display:none;
     color:#16fab2;
     border-style:solid;
     font-size:25px;
@@ -85,5 +86,5 @@
   }
   th,td{
       padding: 10px;
-      border:5px solid black;
+      border:2px solid black;
   }
