@@ -1,0 +1,90 @@
+
+  .hero { 
+    position: relative; 
+    height: 200vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-image: url('OIP.jpg' );
+    background-size: cover;
+  }  
+  #hh1
+  {
+      font-size: 35px;
+      text-align: center;
+      display: block;
+      width: 20%;
+      margin-top: 1%;
+      color: black;
+      margin-left: 5%;
+  
+  }
+  #menu{
+      block-size: 50px;
+      border-block-color: black;
+      color: rgb(46, 33, 16);
+      font-weight: bold;
+      font-size: 15px;
+  }
+  #hh2
+  {
+      font-size: 40px;
+      background-image: linear-gradient(to right, rgba(51, 145, 117, 0.295), rgba(43, 22, 233, 0.329)); 
+      text-align: center;
+      display: flex;
+      width: 30%;
+      color: rgba(255, 255, 255, 0.938);
+      margin-left: 35%;
+  
+  }
+  .je
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    color: black;
+    margin-top: 0px;
+    margin-left: 70%;
+}
+  #headtag  {
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: 15px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 10px ;
+    color: #070202;
+    margin-left: 0px;
+}
+  #div1
+  {
+      font-size: 25px;
+      text-align: center;
+      display: block;
+      width: 50%;
+      margin-top: 5%;
+      color:#ffffffbb; 
+      
+      margin-left: 40%;
+  }
+  .container{
+    align-items: center;
+    justify-content: center; 
+    margin-left: 25%;
+  }
+  .table tr td{
+      border:2px solid black;
+  }
+  #table1{
+    display:none;
+    color:#16fab2;
+    border-style:solid;
+    font-size:25px;
+    width:70%;
+    font-weight: bold;
+    margin-top:3%;
+    text-align: center;
+    background-color: #df7be391;
+  }
+  th,td{
+      padding: 10px;
+      border:5px solid black;
+  }
